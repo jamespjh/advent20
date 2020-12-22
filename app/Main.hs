@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Expenses
 
 main :: IO ()
-main = someFunc
+main = fix2020
